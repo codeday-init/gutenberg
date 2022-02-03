@@ -26,6 +26,10 @@
 			"color": true,
 			"style": true
 		},
+		"color": {
+			"background": true,
+			"text": false
+		},
 		"spacing": {
 			"__experimentalSkipSerialization": true,
 			"margin": true,
