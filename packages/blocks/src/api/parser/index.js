@@ -105,6 +105,9 @@ export function normalizeRawBlock( rawBlock ) {
 		attrs: rawAttributes,
 		innerHTML: rawInnerHTML,
 		innerBlocks: rawInnerBlocks,
+		// Preserve original content as best as we can.
+		// This could be lexically different than the source
+		// but semantically it should be equivalent.
 		sourceMarkup: serializeRawBlock( rawBlock, {
 			isCommentDelimited: true,
 		} ),
