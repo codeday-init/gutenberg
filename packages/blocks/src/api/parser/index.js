@@ -136,9 +136,7 @@ function createMissingBlockType( rawBlock ) {
 			originalContent: rawBlock.sourceMarkup,
 			originalUndelimitedContent,
 		},
-		innerHTML: rawBlock.blockName
-			? rawBlock.sourceMarkup
-			: rawBlock.innerHTML,
+		innerHTML: rawBlock.sourceMarkup,
 		innerBlocks: rawBlock.innerBlocks,
 		innerContent: rawBlock.innerContent,
 	};
