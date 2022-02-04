@@ -7,7 +7,6 @@
 			"content": "<p><!-- wp:core/invalid-$special /--></p>"
 		},
 		"innerBlocks": [],
-		"originalContent": "<p><!-- wp:core/invalid-$special /--></p>",
-		"sourceMarkup": "<!-- wp:null -->\n<!-- wp:core/invalid-$special /-->\n<!-- /wp:null -->"
+		"originalContent": "<p><!-- wp:core/invalid-$special /--></p>"
 	}
 ]

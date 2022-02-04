@@ -11,7 +11,6 @@
 			"previewHeight": 600
 		},
 		"innerBlocks": [],
-		"originalContent": "<div class=\"wp-block-file\"><a href=\"http://localhost:8888/wp-content/uploads/2018/05/keycodes.js\" class=\"wp-block-file__button\" download>Download</a></div>",
-		"sourceMarkup": "<!-- wp:file {\"href\":\"http://localhost:8888/wp-content/uploads/2018/05/keycodes.js\",\"showDownloadButton\":true} -->\n<div class=\"wp-block-file\"><a href=\"http://localhost:8888/wp-content/uploads/2018/05/keycodes.js\" class=\"wp-block-file__button\" download>Download</a></div>\n<!-- /wp:file -->"
+		"originalContent": "<div class=\"wp-block-file\"><a href=\"http://localhost:8888/wp-content/uploads/2018/05/keycodes.js\" class=\"wp-block-file__button\" download>Download</a></div>"
 	}
 ]

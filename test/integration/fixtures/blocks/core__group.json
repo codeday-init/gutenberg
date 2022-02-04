@@ -18,8 +18,7 @@
 					"dropCap": false
 				},
 				"innerBlocks": [],
-				"originalContent": "<p>This is a group block.</p>",
-				"sourceMarkup": "<!-- wp:paragraph -->\n<p>This is a group block.</p>\n<!-- /wp:paragraph -->"
+				"originalContent": "<p>This is a group block.</p>"
 			},
 			{
 				"clientId": "_clientId_1",
@@ -30,11 +29,9 @@
 					"dropCap": false
 				},
 				"innerBlocks": [],
-				"originalContent": "<p>Group block content.</p>",
-				"sourceMarkup": "<!-- wp:paragraph -->\n<p>Group block content.</p>\n<!-- /wp:paragraph -->"
+				"originalContent": "<p>Group block content.</p>"
 			}
 		],
-		"originalContent": "<div class=\"wp-block-group alignfull has-secondary-background-color has-background\">\n\n</div>",
-		"sourceMarkup": "<!-- wp:group {\"align\":\"full\",\"backgroundColor\":\"secondary\"} -->\n<div class=\"wp-block-group alignfull has-secondary-background-color has-background\">\n<!-- wp:paragraph -->\n<p>This is a group block.</p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph -->\n<p>Group block content.</p>\n<!-- /wp:paragraph -->\n</div>\n<!-- /wp:group -->"
+		"originalContent": "<div class=\"wp-block-group alignfull has-secondary-background-color has-background\">\n\n</div>"
 	}
 ]

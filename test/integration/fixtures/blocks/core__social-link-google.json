@@ -8,7 +8,6 @@
 			"service": "google"
 		},
 		"innerBlocks": [],
-		"originalContent": "",
-		"sourceMarkup": "<!-- wp:social-link-google {\"url\":\"https://example.com/\"} /-->"
+		"originalContent": ""
 	}
 ]

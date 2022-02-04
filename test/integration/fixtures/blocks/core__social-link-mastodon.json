@@ -8,7 +8,6 @@
 			"service": "mastodon"
 		},
 		"innerBlocks": [],
-		"originalContent": "",
-		"sourceMarkup": "<!-- wp:social-link-mastodon {\"url\":\"https://example.com/\"} /-->"
+		"originalContent": ""
 	}
 ]

@@ -8,7 +8,6 @@
 			"service": "reddit"
 		},
 		"innerBlocks": [],
-		"originalContent": "",
-		"sourceMarkup": "<!-- wp:social-link-reddit {\"url\":\"https://example.com/\"} /-->"
+		"originalContent": ""
 	}
 ]

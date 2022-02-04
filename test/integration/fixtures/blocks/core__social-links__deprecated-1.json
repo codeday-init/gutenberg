@@ -25,8 +25,7 @@
 					"service": "wordpress"
 				},
 				"innerBlocks": [],
-				"originalContent": "",
-				"sourceMarkup": "<!-- wp:social-link {\"url\":\"https://wordpress.org\",\"service\":\"wordpress\"} /-->"
+				"originalContent": ""
 			},
 			{
 				"clientId": "_clientId_1",
@@ -37,8 +36,7 @@
 					"service": "chain"
 				},
 				"innerBlocks": [],
-				"originalContent": "",
-				"sourceMarkup": "<!-- wp:social-link {\"url\":\"#\",\"service\":\"chain\"} /-->"
+				"originalContent": ""
 			},
 			{
 				"clientId": "_clientId_2",
@@ -49,11 +47,9 @@
 					"service": "mail"
 				},
 				"innerBlocks": [],
-				"originalContent": "",
-				"sourceMarkup": "<!-- wp:social-link {\"url\":\"#\",\"service\":\"mail\"} /-->"
+				"originalContent": ""
 			}
 		],
-		"originalContent": "<ul class=\"wp-block-social-links has-icon-color has-icon-background-color items-justified-space-between\">\n\t\n\t\n\t\n</ul>",
-		"sourceMarkup": "<!-- wp:social-links {\"customIconColor\":\"#ffffff\",\"iconColorValue\":\"#ffffff\",\"customIconBackgroundColor\":\"#3962e3\",\"iconBackgroundColorValue\":\"#3962e3\",\"className\":\"has-icon-color\"} -->\n<ul class=\"wp-block-social-links has-icon-color has-icon-background-color items-justified-space-between\">\n\t\n<!-- wp:social-link {\"url\":\"https://wordpress.org\",\"service\":\"wordpress\"} /-->\n\t\n<!-- wp:social-link {\"url\":\"#\",\"service\":\"chain\"} /-->\n\t\n<!-- wp:social-link {\"url\":\"#\",\"service\":\"mail\"} /-->\n</ul>\n<!-- /wp:social-links -->"
+		"originalContent": "<ul class=\"wp-block-social-links has-icon-color has-icon-background-color items-justified-space-between\">\n\t\n\t\n\t\n</ul>"
 	}
 ]

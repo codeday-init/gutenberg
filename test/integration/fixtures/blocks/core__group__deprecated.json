@@ -19,11 +19,9 @@
 					"dropCap": false
 				},
 				"innerBlocks": [],
-				"originalContent": "<p>test</p>",
-				"sourceMarkup": "<!-- wp:paragraph -->\n<p>test</p>\n<!-- /wp:paragraph -->"
+				"originalContent": "<p>test</p>"
 			}
 		],
-		"originalContent": "<div class=\"wp-block-group alignfull has-lighter-blue-background-color has-background\" id=\"test-id\">\n\t\n</div>",
-		"sourceMarkup": "<!-- wp:group {\"align\":\"full\",\"backgroundColor\":\"lighter-blue\"} -->\n<div class=\"wp-block-group alignfull has-lighter-blue-background-color has-background\" id=\"test-id\">\n\t\n<!-- wp:paragraph -->\n<p>test</p>\n<!-- /wp:paragraph -->\n</div>\n<!-- /wp:group -->"
+		"originalContent": "<div class=\"wp-block-group alignfull has-lighter-blue-background-color has-background\" id=\"test-id\">\n\t\n</div>"
 	}
 ]

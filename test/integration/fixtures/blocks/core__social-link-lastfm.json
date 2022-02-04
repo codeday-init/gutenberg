@@ -8,7 +8,6 @@
 			"service": "lastfm"
 		},
 		"innerBlocks": [],
-		"originalContent": "",
-		"sourceMarkup": "<!-- wp:social-link-lastfm {\"url\":\"https://example.com/\"} /-->"
+		"originalContent": ""
 	}
 ]

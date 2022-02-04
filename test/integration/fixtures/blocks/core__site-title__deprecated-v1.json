@@ -10,7 +10,6 @@
 			"fontFamily": "cambria-georgia"
 		},
 		"innerBlocks": [],
-		"originalContent": "",
-		"sourceMarkup": "<!-- wp:site-title {\"style\":{\"typography\":{\"fontFamily\":\"var:preset|font-family|cambria-georgia\"}}} /-->"
+		"originalContent": ""
 	}
 ]

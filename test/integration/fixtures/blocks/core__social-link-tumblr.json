@@ -8,7 +8,6 @@
 			"service": "tumblr"
 		},
 		"innerBlocks": [],
-		"originalContent": "",
-		"sourceMarkup": "<!-- wp:social-link-tumblr {\"url\":\"https://example.com/\"} /-->"
+		"originalContent": ""
 	}
 ]

@@ -7,7 +7,6 @@
 			"content": "<p><!-- wp:core/invalid-Capitals /--></p>"
 		},
 		"innerBlocks": [],
-		"originalContent": "<p><!-- wp:core/invalid-Capitals /--></p>",
-		"sourceMarkup": "<!-- wp:null -->\n<!-- wp:core/invalid-Capitals /-->\n<!-- /wp:null -->"
+		"originalContent": "<p><!-- wp:core/invalid-Capitals /--></p>"
 	}
 ]

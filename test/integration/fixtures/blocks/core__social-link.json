@@ -8,7 +8,6 @@
 			"service": "spotify"
 		},
 		"innerBlocks": [],
-		"originalContent": "",
-		"sourceMarkup": "<!-- wp:social-link {\"service\":\"spotify\",\"url\":\"https://example.com/\"} /-->"
+		"originalContent": ""
 	}
 ]

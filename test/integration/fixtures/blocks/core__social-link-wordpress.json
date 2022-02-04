@@ -8,7 +8,6 @@
 			"service": "wordpress"
 		},
 		"innerBlocks": [],
-		"originalContent": "",
-		"sourceMarkup": "<!-- wp:social-link-wordpress {\"url\":\"https://example.com/\"} /-->"
+		"originalContent": ""
 	}
 ]

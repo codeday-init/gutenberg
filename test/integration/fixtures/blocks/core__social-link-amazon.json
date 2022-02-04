@@ -8,7 +8,6 @@
 			"service": "amazon"
 		},
 		"innerBlocks": [],
-		"originalContent": "",
-		"sourceMarkup": "<!-- wp:social-link-amazon {\"url\":\"https://example.com/\"} /-->"
+		"originalContent": ""
 	}
 ]

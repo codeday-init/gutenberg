@@ -8,7 +8,6 @@
 			"service": "mail"
 		},
 		"innerBlocks": [],
-		"originalContent": "",
-		"sourceMarkup": "<!-- wp:social-link-mail {\"url\":\"https://example.com/\"} /-->"
+		"originalContent": ""
 	}
 ]

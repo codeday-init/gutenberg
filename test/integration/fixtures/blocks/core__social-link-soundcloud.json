@@ -8,7 +8,6 @@
 			"service": "soundcloud"
 		},
 		"innerBlocks": [],
-		"originalContent": "",
-		"sourceMarkup": "<!-- wp:social-link-soundcloud {\"url\":\"https://example.com/\"} /-->"
+		"originalContent": ""
 	}
 ]

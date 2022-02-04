@@ -21,7 +21,6 @@
 			"addLinkToFeaturedImage": false
 		},
 		"innerBlocks": [],
-		"originalContent": "",
-		"sourceMarkup": "<!-- wp:latest-posts {\"postsToShow\":5,\"displayPostDate\":true} /-->"
+		"originalContent": ""
 	}
 ]

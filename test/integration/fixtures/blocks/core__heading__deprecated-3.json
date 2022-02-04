@@ -13,7 +13,6 @@
 			}
 		},
 		"innerBlocks": [],
-		"originalContent": "<h2 style=\"color:#268ebb\">Text</h2>",
-		"sourceMarkup": "<!-- wp:heading {\"customTextColor\":\"#268ebb\"} -->\n<h2 style=\"color:#268ebb\">Text</h2>\n<!-- /wp:heading -->"
+		"originalContent": "<h2 style=\"color:#268ebb\">Text</h2>"
 	}
 ]

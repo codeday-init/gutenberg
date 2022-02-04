@@ -16,11 +16,9 @@
 					"service": "mastodon"
 				},
 				"innerBlocks": [],
-				"originalContent": "",
-				"sourceMarkup": "<!-- wp:social-link {\"service\":\"mastodon\",\"url\":\"https://mastodon.social/@marcuskaz\"} /-->"
+				"originalContent": ""
 			}
 		],
-		"originalContent": "<ul class=\"wp-block-social-links\"></ul>",
-		"sourceMarkup": "<!-- wp:social-links -->\n<ul class=\"wp-block-social-links\">\n<!-- wp:social-link {\"service\":\"mastodon\",\"url\":\"https://mastodon.social/@marcuskaz\"} /-->\n</ul>\n<!-- /wp:social-links -->"
+		"originalContent": "<ul class=\"wp-block-social-links\"></ul>"
 	}
 ]

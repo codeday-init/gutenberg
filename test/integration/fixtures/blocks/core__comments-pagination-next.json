@@ -13,7 +13,6 @@
 			}
 		},
 		"innerBlocks": [],
-		"originalContent": "",
-		"sourceMarkup": "<!-- wp:comments-pagination-next {\"label\":\"Next Comments\",\"style\":{\"typography\":{\"textTransform\":\"lowercase\"}},\"fontSize\":\"medium\"} /-->"
+		"originalContent": ""
 	}
 ]

@@ -16,8 +16,7 @@
 					"dropCap": false
 				},
 				"innerBlocks": [],
-				"originalContent": "<p>Column One, Paragraph One</p>",
-				"sourceMarkup": "<!-- wp:paragraph -->\n<p>Column One, Paragraph One</p>\n<!-- /wp:paragraph -->"
+				"originalContent": "<p>Column One, Paragraph One</p>"
 			},
 			{
 				"clientId": "_clientId_1",
@@ -28,11 +27,9 @@
 					"dropCap": false
 				},
 				"innerBlocks": [],
-				"originalContent": "<p>Column One, Paragraph Two</p>",
-				"sourceMarkup": "<!-- wp:paragraph -->\n<p>Column One, Paragraph Two</p>\n<!-- /wp:paragraph -->"
+				"originalContent": "<p>Column One, Paragraph Two</p>"
 			}
 		],
-		"originalContent": "<div class=\"wp-block-column\" style=\"flex-basis:33.33%\">\n\t\n\t\n</div>",
-		"sourceMarkup": "<!-- wp:column {\"width\":33.33} -->\n<div class=\"wp-block-column\" style=\"flex-basis:33.33%\">\n\t\n<!-- wp:paragraph -->\n<p>Column One, Paragraph One</p>\n<!-- /wp:paragraph -->\n\t\n<!-- wp:paragraph -->\n<p>Column One, Paragraph Two</p>\n<!-- /wp:paragraph -->\n</div>\n<!-- /wp:column -->"
+		"originalContent": "<div class=\"wp-block-column\" style=\"flex-basis:33.33%\">\n\t\n\t\n</div>"
 	}
 ]

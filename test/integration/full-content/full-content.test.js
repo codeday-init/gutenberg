@@ -53,6 +53,9 @@ function normalizeParsedBlocks( blocks ) {
 		// Recurse to normalize inner blocks
 		block.innerBlocks = normalizeParsedBlocks( block.innerBlocks );
 
+		// Ignore since this isn't a part of the parser output
+		delete block.sourceMarkup;
+
 		return block;
 	} );
 }

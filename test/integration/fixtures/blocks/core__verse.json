@@ -7,7 +7,6 @@
 			"content": "A <em>verse</em>…<br>And more!"
 		},
 		"innerBlocks": [],
-		"originalContent": "<pre class=\"wp-block-verse\">A <em>verse</em>…<br>And more!</pre>",
-		"sourceMarkup": "<!-- wp:verse -->\n<pre class=\"wp-block-verse\">A <em>verse</em>…<br>And more!</pre>\n<!-- /wp:verse -->"
+		"originalContent": "<pre class=\"wp-block-verse\">A <em>verse</em>…<br>And more!</pre>"
 	}
 ]

@@ -26,8 +26,7 @@
 					"label": "Previous label comments"
 				},
 				"innerBlocks": [],
-				"originalContent": "",
-				"sourceMarkup": "<!-- wp:comments-pagination-previous {\"label\":\"Previous label comments\"} /-->"
+				"originalContent": ""
 			},
 			{
 				"clientId": "_clientId_1",
@@ -35,8 +34,7 @@
 				"isValid": true,
 				"attributes": {},
 				"innerBlocks": [],
-				"originalContent": "",
-				"sourceMarkup": "<!-- wp:comments-pagination-numbers /-->"
+				"originalContent": ""
 			},
 			{
 				"clientId": "_clientId_2",
@@ -46,11 +44,9 @@
 					"label": "Next label comments"
 				},
 				"innerBlocks": [],
-				"originalContent": "",
-				"sourceMarkup": "<!-- wp:comments-pagination-next {\"label\":\"Next label comments\"} /-->"
+				"originalContent": ""
 			}
 		],
-		"originalContent": "",
-		"sourceMarkup": "<!-- wp:comments-pagination {\"paginationArrow\":\"chevron\",\"style\":{\"elements\":{\"link\":{\"color\":{\"text\":\"var:preset|color|background\"}}}},\"backgroundColor\":\"foreground\",\"textColor\":\"background\"} -->\n<!-- wp:comments-pagination-previous {\"label\":\"Previous label comments\"} /-->\n<!-- wp:comments-pagination-numbers /-->\n<!-- wp:comments-pagination-next {\"label\":\"Next label comments\"} /-->\n<!-- /wp:comments-pagination -->"
+		"originalContent": ""
 	}
 ]

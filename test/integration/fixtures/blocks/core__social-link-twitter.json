@@ -8,7 +8,6 @@
 			"service": "twitter"
 		},
 		"innerBlocks": [],
-		"originalContent": "",
-		"sourceMarkup": "<!-- wp:social-link-twitter {\"url\":\"https://example.com/\"} /-->"
+		"originalContent": ""
 	}
 ]
