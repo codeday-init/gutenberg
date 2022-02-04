@@ -29,12 +29,12 @@ import { applyBuiltInValidationFixes } from './apply-built-in-validation-fixes';
  *
  * @typedef WPRawBlock
  *
- * @property {string=}         blockName      Block name
- * @property {Object=}         attrs          Block raw or comment attributes.
- * @property {string}          innerHTML      HTML content of the block.
- * @property {(string|null)[]} innerContent   Content without inner blocks.
- * @property {WPRawBlock[]}    innerBlocks    Inner Blocks.
- * @property {string=}         sourceMarkup   Equivalent representation to loaded block HTML.
+ * @property {string=}         blockName    Block name
+ * @property {Object=}         attrs        Block raw or comment attributes.
+ * @property {string}          innerHTML    HTML content of the block.
+ * @property {(string|null)[]} innerContent Content without inner blocks.
+ * @property {WPRawBlock[]}    innerBlocks  Inner Blocks.
+ * @property {string=}         sourceMarkup Equivalent representation to loaded block HTML.
  */
 
 /**
